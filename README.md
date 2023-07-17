@@ -1,4 +1,5 @@
-### Hi there 👋
+DATA ENGINEER 공부와 프로젝트
+23.07 ~ 23.09 [캠퍼스 SW아카데미]TABA3기
 
 <!--
 **gunnu3226/gunnu3226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
