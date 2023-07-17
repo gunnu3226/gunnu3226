@@ -1,4 +1,4 @@
-DATA ENGINEER 공부와 프로젝트/n
+DATA ENGINEER 공부와 프로젝트  
 23.07 ~ 23.09 [캠퍼스 SW아카데미]TABA3기
 
 <!--
