@@ -15,7 +15,7 @@
 ## Project
 |                                              Project                                              |       Tech Stack       | Year |
 | :-----------------------------------------------------------------------------------------------: | :--------------------: | :--: |
-| [이선좌, 이미 선점된 좌석입니다.](https://github.com/gunnu3226/Selected-Seat)    |       Springboot, MySQL, AWS, Redis, Elasticsearch          | 2024.03 - 2024.04 |
+| [이선좌, 이미 선점된 좌석입니다](https://github.com/gunnu3226/Selected-Seat)    |       Springboot, MySQL, AWS, Redis, Elasticsearch          | 2024.03 - 2024.04 |
 | [나만을 위한 카드 추천 챗봇 서비스, EZ:card](https://github.com/EZ-card/EZ-Card)  |       Springboot, MySQL, AWS                                 | 2023.05 |
 
 <br>
