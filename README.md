@@ -2,7 +2,7 @@
 <span>
     <a href="mailto:lkw3226@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/gunnu-lee" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a>
-    <a href="https://guunu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://gunnu.tistory.com/"/></a>
+    <a href="https://gunnu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://gunnu.tistory.com/"/></a>
     <a href="https://lopsided-krypton-3bc.notion.site/c2bb7a7f2a8a4d34b1241977fc173403?pvs=4" target="_blank"><img src="https://img.shields.io/badge/RESUME-f0f0f0?style=flat-square&logo=Notion&logoColor=black&link=https://lopsided-krypton-3bc.notion.site/c2bb7a7f2a8a4d34b1241977fc173403?pvs=4"/></a>
 </span>
 
