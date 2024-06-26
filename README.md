@@ -6,7 +6,7 @@
     <a href="https://lopsided-krypton-3bc.notion.site/c2bb7a7f2a8a4d34b1241977fc173403?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Resume-f0f0f0?style=flat-square&logo=Notion&logoColor=black&link=https://lopsided-krypton-3bc.notion.site/c2bb7a7f2a8a4d34b1241977fc173403?pvs=4"/></a>
 </span>
 
-- 🌱지속적으로 공부하는 Back-end 개발자 입니다.
+- 지속적으로 공부하는 Back-end 개발자 입니다.
 - 데이터를 다루는 방법에 관심이 많습니다.
 - 항상 발전적인 코드와 성능 개선을 시도합니다.
 
