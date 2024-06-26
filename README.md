@@ -34,6 +34,8 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elasticsearch-0095D5?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA-%23003366?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Querydsl-%23000080?style=for-the-badge&logo=&logoColor=white">
 </div>
  
 #### Database
