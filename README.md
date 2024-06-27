@@ -49,6 +49,10 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunnu3226&show_icons=true&theme=default)
+-->
+
+
 <!--
 **gunnu3226/gunnu3226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
